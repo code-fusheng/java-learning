@@ -1,4 +1,4 @@
-package xyz.fusheng.进阶.设计模式.Observer.weather;
+package xyz.fusheng.进阶.设计模式.observer.weather;
 
 /**
  * @FileName: Subject

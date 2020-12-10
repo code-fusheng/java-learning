@@ -1,4 +1,4 @@
-package xyz.fusheng.进阶.设计模式.Observer.weather; /**
+package xyz.fusheng.进阶.设计模式.observer.weather; /**
  * @author: code-fusheng
  * @Date: 2020/10/26 22:39
  */
@@ -12,7 +12,6 @@ package xyz.fusheng.进阶.设计模式.Observer.weather; /**
  */
 
 public class WeatherStation {
-
     public static void main(String[] args) {
         // 创建 weatherData 对象
         WeatherData weatherData = new WeatherData();
@@ -24,7 +23,5 @@ public class WeatherStation {
         weatherData.setMeasurements(80, 65, 30.4f);
         weatherData.setMeasurements(82, 70, 29.2f);
         weatherData.setMeasurements(78, 90, 29.2f);
-
     }
-
 }

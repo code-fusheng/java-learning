@@ -1,4 +1,4 @@
-package xyz.fusheng.进阶.设计模式.Observer; /**
+package xyz.fusheng.进阶.设计模式.observer; /**
  * @author: code-fusheng
  * @Date: 2020/10/26 16:18
  */

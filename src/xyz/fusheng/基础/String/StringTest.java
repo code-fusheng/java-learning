@@ -20,5 +20,9 @@ public class StringTest {
         StringBuilder stringBuilder = new StringBuilder();
         stringBuilder.append(str2);
         System.out.println(stringBuilder.reverse());        // olleh
+
+
+
+
     }
 }

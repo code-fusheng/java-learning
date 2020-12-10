@@ -1,4 +1,4 @@
-package xyz.fusheng.进阶.设计模式.Observer.weather; /**
+package xyz.fusheng.进阶.设计模式.observer.weather; /**
  * @author: code-fusheng
  * @Date: 2020/10/26 23:24
  */
@@ -31,7 +31,7 @@ public class ForecastDisplay implements Observer, DisplayElement {
 
     @Override
     public void display() {
-        System.out.println("天气预报:");
+        System.out.print("天气预报: ");
         if (currentPressure > lastPressure) {
             System.out.println("Improving weather on the way!");
         } else if (currentPressure == lastPressure) {

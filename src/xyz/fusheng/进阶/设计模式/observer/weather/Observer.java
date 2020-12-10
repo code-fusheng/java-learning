@@ -1,4 +1,4 @@
-package xyz.fusheng.进阶.设计模式.Observer.weather; /**
+package xyz.fusheng.进阶.设计模式.observer.weather; /**
  * @author: code-fusheng
  * @Date: 2020/10/26 16:25
  */

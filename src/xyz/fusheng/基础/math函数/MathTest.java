@@ -17,8 +17,11 @@ public class MathTest {
 
 
         for (int j = 0; j < 100; j++) {
-            double i = (Math.random() * 10) + 1;
+            double i = (Math.random()*24 + 1);
             System.out.println(i);
+            int random = (int) i;
+            System.out.println(random);
+
         }
 
     }
